@@ -2,6 +2,8 @@ Unity of War is a brand new turn-based strategy game, made with Godot Engine. Si
 
 Links:
 
+Itch.io - https://alexkerb.itch.io/unity-of-war
+
 Wiki - https://unity-of-war.fandom.com/wiki/Unity_of_War_Wiki
 
 Discord Server - https://discord.gg/y7GznaF
